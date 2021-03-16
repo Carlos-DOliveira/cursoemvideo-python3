@@ -1,6 +1,6 @@
-''' 034 Escreva um prigrama que pergunte o salário de um funcionário e calcule o valor do seu aumento
-para salário superiores a R$ 1.250, calcule um aumento de 10%
-para inferiores ou iguais, o aumento é de 15%'''
+''' 034 Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento.
+Para salário superiores a R$ 1.250, calcule um aumento de 10%.
+Para inferiores ou iguais, o aumento é de 15%.'''
 
 sal = float(input('Digite seu salário: R$ '))
 
