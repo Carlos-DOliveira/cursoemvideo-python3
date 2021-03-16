@@ -1,2 +1,2 @@
 # cursoemvideo-python3
- Material do Curso de Python 3 do Curso em Vídeo
+ Material dos meus exercícios de quando fiz o Curso de Python 3 do Curso em Vídeo
